@@ -115,7 +115,7 @@ entertainment-app/
 
 ## Usage
 
-- Open your browser and navigate to http://localhost:3000
+- Open your browser and navigate to https://entertainment-app-ecru.vercel.app/
 - Sign up for a new account or log in if you already have one
 - Browse trending and recommended movies and TV shows
 - Search for media, view details, watch trailers, and manage bookmarks
